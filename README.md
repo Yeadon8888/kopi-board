@@ -1,0 +1,3 @@
+# board
+
+Encrypted static page.
